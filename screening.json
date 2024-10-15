@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "image": "",
+      "soal": "Apa Pekerjaan Bunda",
+      "pilihan_jawaban": ["Ibu Rumah Tangga", "Di luar rumah/pegawai/PNS", "Kerja Dari Rumah" ],
+      "jawaban": null
+    },
+    {
+        "id": 2,
+        "image": "",
+        "soal": "Apa Pendidikan Bunda?",
+        "pilihan_jawaban": ["SD", "SMP", "SMA/SMK" ],
+        "jawaban": null
+    },
+    {
+        "id": 3,
+        "image": "",
+        "soal": "Apakah Memiliki Balita Lebih Dari Satu?",
+        "pilihan_jawaban": ["Ya", "Tidak"],
+        "jawaban": null
+    },
+    {
+        "id": 4,
+        "image": "",
+        "soal": "Apakah  Orang Tua Tunggal?",
+        "pilihan_jawaban": ["Ya", "Tidak"],
+        "jawaban": null
+    },
+    {
+        "id": 5,
+        "image": "",
+        "soal": "Bagaimana Riwayat Kondisi Anak Saat Kehamilan?",
+        "pilihan_jawaban": ["Bayi Baru Lahir / Normal", "Cacat Bawaan"],
+        "jawaban": null
+    },
+    {
+        "id": 6,
+        "image": "",
+        "soal": "Apakah anak diberi ASI Full sampai 6 bulan?",
+        "pilihan_jawaban": ["Ya", "Tidak"],
+        "jawaban": null
+    },
+    {
+        "id": 7,
+        "image": "",
+        "soal": "Berapa Usia Kandungan Saat Dilahirkan?",
+        "pilihan_jawaban": ["Sebelum 37 Minggu (prematur)", "Antara 37 s.d. 38 Minggu", "Antara 39 s.d. 42 Minggu (cukup bulan)", "Lebih 42 Minggu (lewat bulan)"],
+        "jawaban": null
+    }
+
+]
