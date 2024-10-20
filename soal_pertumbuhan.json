@@ -1,57 +1,159 @@
 [
   {
     "id": 1,
-    "usia": 3,
+    "usia": 6,
     "rangeMin": 0,
-    "rangeMax": 3,
-    "image": "",
-    "level": 1,
-    "soal": "Pada waktu bayi telentang, apakah masing-masing lengan dan tungkai bergerak dengan mudah? Jawab TIDAK bila salah satu atau kedua tungkai atau lengan bayi bergerak tak terarah tak terkendali",
-    "pilihan_jawaban": ["Ya", "Tidak"],
-    "jawaban_index": 0
-  },
-  {
-    "id": 2,
-    "usia": 3,
-    "rangeMin": 0,
-    "rangeMax": 3,
-    "image": "",
-    "level": 1,
-    "soal": "Pada waktu bayi aga, apakah masing-masing lengan dan tungkai bergerak dengan mudah? Jawab TIDAK bila salah satu atau kedua tungkai atau lengan bayi bergerak tak terarah tak terkendali",
-    "pilihan_jawaban": ["Ya", "Tidak", "Betul"],
-    "jawaban_index": 1
-  },
-  {
-    "id": 3,
-    "usia": 3,
-    "rangeMin": 0,
-    "rangeMax": 3,
-    "image": "",
-    "level": 1,
-    "soal": "Pada waktu bayi asa, apakah masing-masing lengan dan tungkai bergerak dengan mudah? Jawab TIDAK bila salah satu atau kedua tungkai atau lengan bayi bergerak tak terarah tak terkendali",
-    "pilihan_jawaban": ["Ya", "Tidak"],
-    "jawaban_index": 2
-  },
-  {
-    "id": 4,
-    "usia": 5,
-    "rangeMin": 4,
     "rangeMax": 6,
     "image": "",
     "level": 1,
-    "soal": "Pada waktu bayi asa, apakah masing-masing lengan dan tungkai bergerak dengan mudah? Jawab TIDAK bila salah satu atau kedua tungkai atau lengan bayi bergerak tak terarah tak terkendali",
+    "soal": "Apakah anak ibu mengalami kenaikkan berat badan pada 4 minggu pertama?",
     "pilihan_jawaban": ["Ya", "Tidak"],
-    "jawaban_index": 2
+    "jawaban": 0
+  },
+  {
+    "id": 2,
+    "usia": 12,
+    "rangeMin": 7,
+    "rangeMax": 12,
+    "image": "",
+    "level": 1,
+    "soal": "Berapakah berat badan ideal dari usia anak ibu sekarang?",
+    "pilihan_jawaban": ["2,4 - 8,7 kg", "6,8 - 10,9 cm"],
+    "jawaban": 1
+  },
+  {
+    "id": 3,
+    "usia": 18,
+    "rangeMin": 13,
+    "rangeMax": 18,
+    "image": "",
+    "level": 1,
+    "soal": "Pada usia anak ibu lebih dari satu tahun bagaimana cara ibu memantau berat badan anak ibu?",
+    "pilihan_jawaban": [
+      "Tidak dipantau rutin",
+      "Menggunakan Kartu Menuju Sehat (KMS)",
+      "Memeriksa berat badan anak secara rutin di posyandu"
+    ],
+    "jawaban": 1
+  },
+  {
+    "id": 4,
+    "usia": 24,
+    "rangeMin": 19,
+    "rangeMax": 24,
+    "image": "",
+    "level": 1,
+    "soal": "Jika anak ibu saat ini memiliki berat badan yang kurang apakah yang menjadi penyebabnya?",
+    "pilihan_jawaban": [
+      "Faktor Genetik",
+      "Penyakit Kronis",
+      "Malnutrisi",
+      "Aktivitas Berlebihan"
+    ],
+    "jawaban": 2
   },
   {
     "id": 5,
-    "usia": 3,
-    "rangeMin": 0,
-    "rangeMax": 3,
+    "usia": 36,
+    "rangeMin": 25,
+    "rangeMax": 26,
     "image": "",
-    "level": 2,
-    "soal": "Pada waktu bayi asa, apakah masing-masing lengan dan tungkai bergerak dengan mudah? Jawab TIDAK bila salah satu atau kedua tungkai atau lengan bayi bergerak tak terarah tak terkendali",
-    "pilihan_jawaban": ["Ya", "Tidak"],
-    "jawaban_index": 2
+    "level": 1,
+    "soal": "Apakah di usia 25 sampai 36 tahun berat badan anak ibu cenderung stabil?",
+    "pilihan_jawaban": ["Tidak Stabil", "Stabil"],
+    "jawaban": 1
+  },
+  {
+    "id": 6,
+    "usia": 6,
+    "rangeMin": 0,
+    "rangeMax": 6,
+    "image": "",
+    "level": 1,
+    "soal": "Berapakah seharusnya tinggi badan anak ibu saat ini?",
+    "pilihan_jawaban": ["46,1 - 74,0 cm", "74,0 - 82,9 cm"],
+    "jawaban": 0
+  },
+  {
+    "id": 7,
+    "usia": 12,
+    "rangeMin": 7,
+    "rangeMax": 12,
+    "image": "",
+    "level": 1,
+    "soal": "Berapakah kenaikkan tinggi badan anak ibu setiap tahunnya?",
+    "pilihan_jawaban": ["25 cm", "13 cm", "9 cm"],
+    "jawaban": 0
+  },
+  {
+    "id": 8,
+    "usia": 18,
+    "rangeMin": 13,
+    "rangeMax": 18,
+    "image": "",
+    "level": 1,
+    "soal": "Apakah ibu merasa ada yang kurang sesuai jika tinggi badan anak ibu baru mencapai 80 cm?",
+    "pilihan_jawaban": ["Tidak Sesuai", "Sesuai"],
+    "jawaban": 1
+  },
+  {
+    "id": 9,
+    "usia": 12,
+    "rangeMin": 7,
+    "rangeMax": 12,
+    "image": "",
+    "level": 1,
+    "soal": "Bagaimana perkembangan kemampuan duduk bayi anda?",
+    "pilihan_jawaban": [
+      "Belum bisa duduk",
+      "Duduk dengan dibantu",
+      "Duduk tanpa dibantu"
+    ],
+    "jawaban": 1
+  },
+  {
+    "id": 10,
+    "usia": 12,
+    "rangeMin": 7,
+    "rangeMax": 12,
+    "image": "",
+    "level": 1,
+    "soal": "Bagaimana perkembangan kemampuan merangkak bayi anda?",
+    "pilihan_jawaban": [
+      "Belum bisa merangkak",
+      "Belajar merangkak",
+      "Merangkak untuk meraih benda"
+    ],
+    "jawaban": 1
+  },
+  {
+    "id": 11,
+    "usia": 12,
+    "rangeMin": 7,
+    "rangeMax": 12,
+    "image": "",
+    "level": 1,
+    "soal": "Bagaimana perkembangan kemampuan merangkak bayi anda?",
+    "pilihan_jawaban": [
+      "Belum bisa merangkak",
+      "Belajar merangkak",
+      "Merangkak untuk meraih benda"
+    ],
+    "jawaban": 1
+  },
+  {
+    "id": 12,
+    "usia": 12,
+    "rangeMin": 19,
+    "rangeMax": 24,
+    "image": "",
+    "level": 1,
+    "soal": "Bagaimana perkembangan kemampuan berdiri bayi anda?",
+    "pilihan_jawaban": [
+      "Belum bisa berdiri",
+      "Berdiri dengan dibantu",
+      "Berdiri tanpa dibantu"
+    ],
+    "jawaban": 1
   }
 ]
