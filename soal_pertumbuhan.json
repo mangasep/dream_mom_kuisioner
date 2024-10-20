@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "usia": 3,
+    "rangeMin": 0,
+    "rangeMax": 3,
+    "image": "",
+    "level": 1,
+    "soal": "Pada waktu bayi telentang, apakah masing-masing lengan dan tungkai bergerak dengan mudah? Jawab TIDAK bila salah satu atau kedua tungkai atau lengan bayi bergerak tak terarah tak terkendali",
+    "pilihan_jawaban": ["Ya", "Tidak"],
+    "jawaban_index": 0
+  },
+  {
+    "id": 2,
+    "usia": 3,
+    "rangeMin": 0,
+    "rangeMax": 3,
+    "image": "",
+    "level": 1,
+    "soal": "Pada waktu bayi aga, apakah masing-masing lengan dan tungkai bergerak dengan mudah? Jawab TIDAK bila salah satu atau kedua tungkai atau lengan bayi bergerak tak terarah tak terkendali",
+    "pilihan_jawaban": ["Ya", "Tidak", "Betul"],
+    "jawaban_index": 1
+  },
+  {
+    "id": 3,
+    "usia": 3,
+    "rangeMin": 0,
+    "rangeMax": 3,
+    "image": "",
+    "level": 1,
+    "soal": "Pada waktu bayi asa, apakah masing-masing lengan dan tungkai bergerak dengan mudah? Jawab TIDAK bila salah satu atau kedua tungkai atau lengan bayi bergerak tak terarah tak terkendali",
+    "pilihan_jawaban": ["Ya", "Tidak"],
+    "jawaban_index": 2
+  },
+  {
+    "id": 4,
+    "usia": 5,
+    "rangeMin": 4,
+    "rangeMax": 6,
+    "image": "",
+    "level": 1,
+    "soal": "Pada waktu bayi asa, apakah masing-masing lengan dan tungkai bergerak dengan mudah? Jawab TIDAK bila salah satu atau kedua tungkai atau lengan bayi bergerak tak terarah tak terkendali",
+    "pilihan_jawaban": ["Ya", "Tidak"],
+    "jawaban_index": 2
+  },
+  {
+    "id": 5,
+    "usia": 3,
+    "rangeMin": 0,
+    "rangeMax": 3,
+    "image": "",
+    "level": 2,
+    "soal": "Pada waktu bayi asa, apakah masing-masing lengan dan tungkai bergerak dengan mudah? Jawab TIDAK bila salah satu atau kedua tungkai atau lengan bayi bergerak tak terarah tak terkendali",
+    "pilihan_jawaban": ["Ya", "Tidak"],
+    "jawaban_index": 2
+  }
+]
