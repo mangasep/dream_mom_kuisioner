@@ -155,5 +155,195 @@
       "Berdiri tanpa dibantu"
     ],
     "jawaban": 1
+  },
+  {
+    "id": 1,
+    "usia": 6,
+    "rangeMin": 0,
+    "rangeMax": 6,
+    "image": "",
+    "level": 2,
+    "soal": "Apakah menurut ibu di usia 0-6 bulan anak anak membutuhakan jenis makanan tertentu untuk menjaga stabilnya BB dan TB?",
+    "pilihan_jawaban": ["Ya", "Tidak"],
+    "jawaban": 0
+  },
+  {
+    "id": 2,
+    "usia": 12,
+    "rangeMin": 7,
+    "rangeMax": 12,
+    "image": "",
+    "level": 2,
+    "soal": "Apakah menurut ibu di usia anak 7-12 bulan akan mengalami penurunan berat badan?",
+    "pilihan_jawaban": ["Mengalami", "Tidak Mengalami"],
+    "jawaban": 0
+  },
+  {
+    "id": 3,
+    "usia": 18,
+    "rangeMin": 13,
+    "rangeMax": 18,
+    "image": "",
+    "level": 2,
+    "soal": "Apakah anak ibu sudah mulai mengkonsumsi jenis makanan yang banyak mengandung karbohidrat?",
+    "pilihan_jawaban": ["Sudah", "Belum"],
+    "jawaban": 0
+  },
+  {
+    "id": 4,
+    "usia": 36,
+    "rangeMin": 25,
+    "rangeMax": 36,
+    "image": "",
+    "level": 2,
+    "soal": "Apakah anak anda sering makan jajanan yang dibeli bebas ? (> 2 th)?",
+    "pilihan_jawaban": ["Jarang", "Sering"],
+    "jawaban": 0
+  },
+  {
+    "id": 5,
+    "usia": 12,
+    "rangeMin": 7,
+    "rangeMax": 12,
+    "image": "",
+    "level": 2,
+    "soal": "Apakah tangan anak anda sering menggenggam?",
+    "pilihan_jawaban": ["Jarang", "Sering"],
+    "jawaban": 1
+  },
+  {
+    "id": 6,
+    "usia": 18,
+    "rangeMin": 13,
+    "rangeMax": 18,
+    "image": "",
+    "level": 2,
+    "soal": "Apakah anak anda sering memasukkan mainan ke dalam mulut?",
+    "pilihan_jawaban": ["Jarang", "Sering"],
+    "jawaban": 1
+  },
+  {
+    "id": 1,
+    "usia": 6,
+    "rangeMin": 0,
+    "rangeMax": 6,
+    "image": "",
+    "level": 3,
+    "soal": "Apakah ibu memberikan jenis makanan tertentu untuk menjaga agar berat badan bayi/anak tetap stabil?",
+    "pilihan_jawaban": ["Ya", "Tidak"],
+    "jawaban": 0
+  },
+  {
+    "id": 2,
+    "usia": 6,
+    "rangeMin": 0,
+    "rangeMax": 6,
+    "image": "",
+    "level": 3,
+    "soal": "Apakah ibu memberikan jenis makanan tertentu untuk menjaga agar berat badan bayi/anak tetap stabil?",
+    "pilihan_jawaban": ["Ya", "Tidak"],
+    "jawaban": 0
+  },
+  {
+    "id": 3,
+    "usia": 12,
+    "rangeMin": 7,
+    "rangeMax": 12,
+    "image": "",
+    "level": 3,
+    "soal": "Apakah anda memberikan MP ASI sesuai umur anak anda?",
+    "pilihan_jawaban": ["Ya", "Tidak"],
+    "jawaban": 0
+  },
+  {
+    "id": 4,
+    "usia": 12,
+    "rangeMin": 7,
+    "rangeMax": 12,
+    "image": "",
+    "level": 3,
+    "soal": "Apakah anda memberikan tambahan makanan, seperti snack, jus, buah diluar jam makan utama? ",
+    "pilihan_jawaban": ["Ya", "Tidak"],
+    "jawaban": 0
+  },
+  {
+    "id": 5,
+    "usia": 18,
+    "rangeMin": 13,
+    "rangeMax": 18,
+    "image": "",
+    "level": 3,
+    "soal": "Apakah ibu memberikan makanan tambahan di jam jam tertentu untuk anak ibu?",
+    "pilihan_jawaban": ["Ya", "Tidak"],
+    "jawaban": 0
+  },
+  {
+    "id": 6,
+    "usia": 24,
+    "rangeMin": 19,
+    "rangeMax": 24,
+    "image": "",
+    "level": 3,
+    "soal": "Apakah ibu menyediakan menu khusus untuk keperluan konsumsi makan anak ibu sehari hari?",
+    "pilihan_jawaban": ["Ya", "Tidak"],
+    "jawaban": 0
+  },
+  {
+    "id": 7,
+    "usia": 36,
+    "rangeMin": 25,
+    "rangeMax": 36,
+    "image": "",
+    "level": 3,
+    "soal": "Apakah berat badan anak ibu. diberikan intervensi khusus untuk menjaga kenaikkan BB di usia 25 -36 bulan?",
+    "pilihan_jawaban": ["Ya", "Tidak"],
+    "jawaban": 0
+  },
+  {
+    "id": 1,
+    "usia": 6,
+    "rangeMin": 0,
+    "rangeMax": 6,
+    "image": "",
+    "level": 4,
+    "soal": "Apa yang ibu lakukan jika anak ibu memiliki berat badan yang lebih dari usia seharusnya?",
+    "pilihan_jawaban": [
+      "Atur Pola Makan",
+      "Memberikan Makanan Seperti Biasanya"
+    ],
+    "jawaban": 0
+  },
+  {
+    "id": 2,
+    "usia": 12,
+    "rangeMin": 7,
+    "rangeMax": 12,
+    "image": "",
+    "level": 4,
+    "soal": "Apakah ibu akan membatasi konsumsi makanan jika anak di usia 7 -12 bulan mengalami berat badan yang berlebih?",
+    "pilihan_jawaban": ["Ya", "Tidak"],
+    "jawaban": 0
+  },
+  {
+    "id": 3,
+    "usia": 18,
+    "rangeMin": 13,
+    "rangeMax": 18,
+    "image": "",
+    "level": 4,
+    "soal": "Apakah ibu melakukan kebebasan konsumsi makanan jika anak ibu memiliki berat badab kurang?",
+    "pilihan_jawaban": ["Ya", "Tidak"],
+    "jawaban": 0
+  },
+  {
+    "id": 4,
+    "usia": 24,
+    "rangeMin": 19,
+    "rangeMax": 24,
+    "image": "",
+    "level": 4,
+    "soal": "Kalau iya jenis makanan apa yang ibu sediakan?",
+    "pilihan_jawaban": ["Sayuran", "Protein", "Karbohidrat"],
+    "jawaban": 1
   }
 ]
